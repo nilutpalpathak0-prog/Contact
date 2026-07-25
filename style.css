@@ -373,3 +373,15 @@ flex-shrink:0;
 .content{
     flex:1;
 }
+
+@media (max-width:768px){
+
+.header{
+    padding-bottom:120px;
+}
+
+.card{
+    margin-top:20px;
+}
+
+}
