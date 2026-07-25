@@ -343,17 +343,6 @@ flex-shrink:0;
     font-weight:600;
 }
 
-.content{
-    flex:1;
-}
-
-.content h3{
-    margin:0;
-    font-size:18px;
-    color:#555;
-    font-weight:600;
-}
-
 .content p{
     margin:8px 0 0;
     font-size:18px;
