@@ -1,1 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Thakur;Sudarshan;;;
+FN:Sudarshan Thakur
+ORG:Srimanta Sankaradeva Kalakshetra Society
+TITLE:Secretary
 
+TEL;TYPE=CELL:+919864077046
+TEL;TYPE=WORK:+913612332665
+
+EMAIL;TYPE=INTERNET;TYPE=WORK:secy.ssk@gmail.com
+EMAIL;TYPE=INTERNET:kalakshetra@rediffmail.com
+
+URL:https://www.sankaradevakalakshetra.com
+
+ADR;TYPE=WORK:;;Srimanta Sankaradeva Kalakshetra Society\, Panjabari;Guwahati;Assam;781037;India
+
+NOTE:Official Digital Business Card
+
+END:VCARD
