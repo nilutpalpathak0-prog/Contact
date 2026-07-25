@@ -347,3 +347,29 @@ flex-shrink:0;
     margin:8px 0 0;
     font-size:18px;
 }
+
+.row{
+    display:flex !important;
+    align-items:center !important;
+    gap:18px !important;
+}
+
+.icon{
+    width:55px !important;
+    height:55px !important;
+    min-width:55px;
+    background:#f4f4f4 !important;
+    border-radius:50% !important;
+    display:flex !important;
+    justify-content:center !important;
+    align-items:center !important;
+}
+
+.icon i{
+    color:#4b72dd !important;
+    font-size:24px !important;
+}
+
+.content{
+    flex:1;
+}
